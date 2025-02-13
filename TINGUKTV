@@ -371,7 +371,7 @@ https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0Agznr-Wyg-rnViJsttvGGAg607y-YxnadfsjWuUC8_xvkWr0i16qo0afzfm7Lhw_yY_FaLHl6d4yehnoKl6MeMWAh3G9Tdr98DC16aUIeG225qSSPJwmBShQ_zXonM-q2TUgLrbKegmFgNStX3SCFTkmgOWK0PAYouUPwEk6rnprdsJ0SWXEGhIsnQ/s1600/jogja%20%281%29.jpg",Surabaya TV
 https://v3.siar.us/surabayatv/live/playlist.m3u8
   
-#EXTM3U url-tvg="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml"
+
 
 
 =====ENTERTAINMENT
@@ -3467,10 +3467,10 @@ http://203.162.235.41:28107/
 #EXTINF:-1 group-title="JAPAN", BS Asahi
 http://203.162.235.41:29108/
  
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id.xml"
+
  
 
-#EXTM3U
+
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent=Android-R+
 #EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",GROUP-GENRE="Action",NAME="Indonesian",DEFAULT=YES,AUTOSELECT=YES,FORCED=NO,LANGUAGE="id",URI="https://raw.githubusercontent.com/Iqbalbala/SUBTILE/main/SubAdaytodie.m3u8"
@@ -3530,7 +3530,7 @@ https://kayk.vizcloud.club/simple/EqPFIfwQWADtjDlGha7rC5YurFxcu+DpAkN7rqk+wYMnU9
 https://kayk.vizcloud.club/simple/EqPFIfwQWADtjDlGha7rC5YurFxcu+DpAkN7rqk+wYMnU94US2El/br/H3/v.m3u8
 =========================================================================================================================================================================================================
 
-#EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyKbV8hQVg2MowvHrQqUn36IRM2_tmlxFotQ&usqp=CAU" group-title="livebolla", @Full_Senyum 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3903,7 +3903,7 @@ https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0Agznr-Wyg-rnViJsttvGGAg607y-YxnadfsjWuUC8_xvkWr0i16qo0afzfm7Lhw_yY_FaLHl6d4yehnoKl6MeMWAh3G9Tdr98DC16aUIeG225qSSPJwmBShQ_zXonM-q2TUgLrbKegmFgNStX3SCFTkmgOWK0PAYouUPwEk6rnprdsJ0SWXEGhIsnQ/s1600/jogja%20%281%29.jpg",Surabaya TV
 https://v3.siar.us/surabayatv/live/playlist.m3u8
   
-#EXTM3U url-tvg="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml"
+
 
 
 =====ENTERTAINMENT
@@ -6999,10 +6999,10 @@ http://203.162.235.41:28107/
 #EXTINF:-1 group-title="JAPAN", BS Asahi
 http://203.162.235.41:29108/
  
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id.xml"
+
  
 
-#EXTM3U
+
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent=Android-R+
 #EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",GROUP-GENRE="Action",NAME="Indonesian",DEFAULT=YES,AUTOSELECT=YES,FORCED=NO,LANGUAGE="id",URI="https://raw.githubusercontent.com/Iqbalbala/SUBTILE/main/SubAdaytodie.m3u8"
@@ -7064,7 +7064,7 @@ https://kayk.vizcloud.club/simple/EqPFIfwQWADtjDlGha7rC5YurFxcu+DpAkN7rqk+wYMnU9
 
 ===============================================================================================================================================================================
 
-#EXTM3U
+
 
 
                               ==========PLAYLIST IPTV PRO BY ZACK===========
